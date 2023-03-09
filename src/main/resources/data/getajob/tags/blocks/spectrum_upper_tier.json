@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "spectrum:pedestal_onyx",
+    "spectrum:pedestal_moonstone",
+    "#spectrum:fusion_shrines",
+    "spectrum:enchanter",
+    "#spectrum:item_bowls",
+    "spectrum:crystallarieum",
+    "spectrum:cinderhearth",
+    "spectrum:crystal_apothecary",
+    "spectrum:inkwell",
+    "spectrum:ink_duct",
+    "#spectrum:upgrades",
+    "spectrum:vanilla_semi_permeable_glass",
+    "spectrum:tinted_semi_permeable_glass",
+    "spectrum:glowing_semi_permeable_glass",
+    "spectrum:topaz_semi_permeable_glass",
+    "spectrum:amethyst_semi_permeable_glass",
+    "spectrum:citrine_semi_permeable_glass",
+    "spectrum:onyx_semi_permeable_glass",
+    "spectrum:moonstone_semi_permeable_glass"
+
+  ]
+}

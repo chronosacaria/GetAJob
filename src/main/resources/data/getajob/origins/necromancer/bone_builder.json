@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "getajob:general/simple_brewing_knowledge"
+  ],
+  "upgrades": [
+    {
+      "condition": "conjuring:gem_tinkering",
+      "origin": "getajob:necromancer/thanatologist"
+    }
+  ],
+  "unchoosable": true,
+  "icon": "minecraft:bone",
+  "impact": 0
+}

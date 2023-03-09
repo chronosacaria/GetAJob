@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "getajob:general/simple_brewing_knowledge"
+  ],
+  "upgrades": [
+    {
+      "condition": "conjuring:soulfire_forge",
+      "origin": "getajob:necromancer/bone_builder"
+    }
+  ],
+  "icon": "minecraft:rotten_flesh",
+  "impact": 0
+}

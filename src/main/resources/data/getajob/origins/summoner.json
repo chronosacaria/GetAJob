@@ -1,0 +1,8 @@
+{
+    "powers": [
+        "getajob:general/simple_brewing_knowledge",
+        "getajob:general/city_folk"
+    ],
+    "icon": "minecraft:stick",
+    "impact": 0
+}

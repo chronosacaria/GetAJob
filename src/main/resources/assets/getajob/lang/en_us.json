@@ -1,0 +1,12 @@
+{
+  "layer.origins-classes.jobs.name": "Job.",
+
+  "origin.getajob.summoner.name": "Summoner",
+  "origin.getajob.summoner.description": "Summoner Description (Plz don't forget to update me :( )",
+
+  "power.getajob.simple_brewing_knowledge.name": "Simple Brewing Knowledge",
+  "power.getajob.simple_brewing_knowledge.description": "You have a basic knowledge of how brewing works. You can use a simple brewing stand.",
+
+  "power.getajob.city_folk.name": "City Folk",
+  "power.getajob.city_folk.description": "You are not accustomed to the outdoors or the wilderness. You have difficulty harvesting wild crops."
+}

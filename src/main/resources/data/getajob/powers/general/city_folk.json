@@ -1,0 +1,29 @@
+{
+    "type": "origins:multiple",
+    "cultivars":{
+        "type": "origins:replace_loot_table",
+        "replace": {
+            "culturaldelights:blocks/wild_corn"             : "getajob:blocks/culturaldelights/wild_corn_override",
+            "culturaldelights:blocks/wild_cucumbers"        : "getajob:blocks/culturaldelights/wild_cucumbers_override",
+            "culturaldelights:blocks/wild_eggplants"        : "getajob:blocks/culturaldelights/wild_eggplants_override",
+
+            "expandeddelight:blocks/wild_asparagus"         : "getajob:blocks/expandeddelight/wild_asparagus_override",
+            "expandeddelight:blocks/wild_chili_pepper"      : "getajob:blocks/expandeddelight/wild_chili_pepper_override",
+            "expandeddelight:blocks/wild_peanuts"           : "getajob:blocks/expandeddelight/wild_peanuts_override",
+            "expandeddelight:blocks/wild_sweet_potatoes"    : "getajob:blocks/expandeddelight/wild_sweet_potatoes_override",
+            
+            "farmersdelight:blocks/brown_mushroom_colony"   : "getajob:blocks/farmersdelight/brown_mushroom_colony_override",
+            "farmersdelight:blocks/red_mushroom_colony"     : "getajob:blocks/farmersdelight/red_mushroom_colony_override",
+            "farmersdelight:blocks/wild_beetroots"          : "getajob:blocks/farmersdelight/wild_beetroots_override",
+            "farmersdelight:blocks/wild_cabbage"            : "getajob:blocks/farmersdelight/wild_cabbage_override",
+            "farmersdelight:blocks/wild_carrots"            : "getajob:blocks/farmersdelight/wild_carrots_override",
+            "farmersdelight:blocks/wild_onions"             : "getajob:blocks/farmersdelight/wild_onions_override",
+            "farmersdelight:blocks/wild_potatoes"           : "getajob:blocks/farmersdelight/wild_potatoes_override",
+            "farmersdelight:blocks/wild_rice"               : "getajob:blocks/farmersdelight/wild_rice_override",
+            "farmersdelight:blocks/wild_tomatoes"           : "getajob:blocks/farmersdelight/wild_tomatoes_override",
+
+            "nethersdelight:blocks/crimson_fungus_colony"   : "getajob:blocks/nehtersdelight/crimson_fungus_colony_override",
+            "nethersdelight:blocks/warped_fungus_colony"    : "getajob:blocks/nehtersdelight/crimson_fungus_colony_override"
+        }
+    }
+}

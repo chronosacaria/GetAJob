@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "getajob",
+  "version": "${version}",
+  "name": "Get A Job",
+  "description": "Get A Job expands on the Origins class system by adding specialised jobs that can affect how you play with others.",
+  "authors": [
+    "chronosacaria"
+  ],
+  "contact": {
+    "website": "https://www.timefall.dev",
+    "repo": "https://github.com/chronosacaria/Get A Job"
+  },
+  "license": "Timefall Development License 1.1",
+  "icon": "assets/getajob/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dev.timefall.getajob.client.GetAJobClient"
+    ],
+    "main": [
+      "dev.timefall.getajob.GetAJob"
+    ]
+  },
+  "mixins": [
+    "getajob.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

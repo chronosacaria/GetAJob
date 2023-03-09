@@ -1,0 +1,8 @@
+{
+    "powers": [
+        "getajob:general/simple_brewing_knowledge",
+        "getajob:general/magical_dullard"
+    ],
+    "icon": "minecraft:compass",
+    "impact": 0
+}

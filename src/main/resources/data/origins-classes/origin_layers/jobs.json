@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "getajob:alchemist",
+    "getajob:necromancer/corpse_carver",
+    "getajob:necromancer/bone_builder",
+    "getajob:necromancer/thanatologist",
+    "getajob:forager",
+    "getajob:summoner"
+  ]
+}

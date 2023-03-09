@@ -1,0 +1,17 @@
+{
+    "type": "origins:multiple",
+    "hidden": true,
+    "no_smithing_table": {
+        "type": "origins:prevent_block_use",
+        "block_condition": {
+            "type": "minecraft:smithing_table"
+        }
+    },
+    "no_advance_anvil": {
+        "type": "origins:prevent_block_use",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "getajob:advance_anvils"
+        }
+    }
+}

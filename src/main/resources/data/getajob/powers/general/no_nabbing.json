@@ -1,0 +1,16 @@
+{
+    "type": "origins:multiple",
+    "hidden": true,
+    "passive": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "mob_catcher:mob_catcher"
+        }
+    },
+    "hostile": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "mob_catcher:mob_catcher_hostile"
+        }
+    }
+}
