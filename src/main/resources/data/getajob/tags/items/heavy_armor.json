@@ -1,0 +1,949 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:diamond_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_helmet",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_chestplate",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_leggings",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_boots",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:steel_helmet",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:steel_chestplate",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:steel_leggings",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:steel_boots",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:ametrine_helmet",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:ametrine_chestplate",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:ametrine_leggings",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:ametrine_boots",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_helmet",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_chestplate",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_leggings",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_boots",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_helmet",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_chestplate",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_leggings",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_boots",
+      "required": false
+    },
+    {
+      "id": "betterend:crystalite_helmet",
+      "required": false
+    },
+    {
+      "id": "betterend:crystalite_chestplate",
+      "required": false
+    },
+    {
+      "id": "betterend:crystalite_leggings",
+      "required": false
+    },
+    {
+      "id": "betterend:crystalite_boots",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_helmet",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_chestplate",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_leggings",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_boots",
+      "required": false
+    },
+    {
+      "id": "byg:ametrine_helmet",
+      "required": false
+    },
+    {
+      "id": "byg:ametrine_chestplate",
+      "required": false
+    },
+    {
+      "id": "byg:ametrine_leggings",
+      "required": false
+    },
+    {
+      "id": "byg:ametrine_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:turtle_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:turtle_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:turtle_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:turtle_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:nimble_turtle_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:nimble_turtle_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:nimble_turtle_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:nimble_turtle_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:beehive_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:beehive_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:beehive_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:beehive_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:beenest_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:beenest_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:beenest_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:beenest_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:reinforced_mail_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:reinforced_mail_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:reinforced_mail_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:reinforced_mail_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:stalwart_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:stalwart_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:stalwart_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:stalwart_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:curious_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:curious_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:curious_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:curious_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:snow_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:snow_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:snow_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:snow_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:frost_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:frost_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:frost_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:frost_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:mercenary_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:mercenary_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:mercenary_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:mercenary_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:renegade_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:renegade_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:renegade_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:renegade_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:hungry_horror_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:hungry_horror_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:hungry_horror_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:hungry_horror_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:emerald_gear_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:emerald_gear_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:emerald_gear_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:emerald_gear_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:opulent_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:opulent_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:opulent_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:opulent_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:dark_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:dark_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:dark_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:dark_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:titans_shroud_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:titans_shroud_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:titans_shroud_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:titans_shroud_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:royal_guard_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:royal_guard_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:royal_guard_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:royal_guard_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:plate_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:plate_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:plate_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:plate_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:full_metal_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:full_metal_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:full_metal_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:full_metal_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:white_mystery_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:white_mystery_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:white_mystery_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:white_mystery_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:blue_mystery_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:blue_mystery_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:blue_mystery_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:blue_mystery_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:green_mystery_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:green_mystery_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:green_mystery_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:green_mystery_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:purple_mystery_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:purple_mystery_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:purple_mystery_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:purple_mystery_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:red_mystery_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:red_mystery_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:red_mystery_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:red_mystery_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:champions_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:champions_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:champions_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:champions_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:heroes_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:heros_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:heros_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:heros_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:gilded_glory_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:gilded_glory_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:gilded_glory_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:gilded_glory_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:shulker_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:shulker_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:shulker_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:shulker_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:sturdy_shuker_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:sturdy_shuker_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:sturdy_shuker_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:sturdy_shuker_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:cauldron_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:cauldron_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:cauldron_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:cauldron_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:gourdian_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:gourdian_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:gourdian_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:gourdian_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:star_platinum_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:star_platinum_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:star_platinum_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:star_platinum_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_boots",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hydrargym_helmet",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hydrargym_chestplate",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hydrargym_leggings",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hydrargym_boots",
+      "required": false
+    },
+    {
+      "id": "spectrum:ferocious_helmet",
+      "required": false
+    },
+    {
+      "id": "spectrum:ferocious_chestplate",
+      "required": false
+    },
+    {
+      "id": "spectrum:ferocious_leggings",
+      "required": false
+    },
+    {
+      "id": "spectrum:ferocious_boots",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_helmet",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_chestplate",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_leggings",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_boots",
+      "required": false
+    }
+  ]
+}

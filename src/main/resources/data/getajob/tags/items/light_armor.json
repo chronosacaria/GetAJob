@@ -1,0 +1,457 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:leather_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_leggings",
+      "required": false
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:archers_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:archers_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:archers_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:archers_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:hunters_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:ocelot_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:ocelot_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:ocelot_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:ocelot_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:shadow_walker_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:shadow_walker_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:shadow_walker_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:shadow_walker_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:wolf_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:wolf_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:wolf_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:wolf_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:black_wolf_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:black_wolf_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:black_wolf_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:black_wolf_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:fox_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:fox_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:fox_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:fox_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:arctic_fox_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:arctic_fox_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:arctic_fox_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:arctic_fox_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:climbing_gear_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:climbing_gear_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:climbing_gear_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:climbing_gear_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:rugged_climbing_gear_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:rugged_climbing_gear_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:rugged_climbing_gear_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:rugged_climbing_gear_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:squid_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:squid_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:squid_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:squid_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:glow_squid_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:glow_squid_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:glow_squid_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:glow_squid_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:goat_gear_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:goat_gear_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:goat_gear_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:goat_gear_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:evocation_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:evocation_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:evocation_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:evocation_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:ember_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:ember_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:ember_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:ember_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:verdant_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:verdant_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:verdant_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:verdant_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:thief_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:thief_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:thief_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:thief_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:spider_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:spider_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:spider_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:spider_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:soul_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:soul_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:soul_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:soul_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:souldancer_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:souldancer_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:souldancer_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:souldancer_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:sprout_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:sprout_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:sprout_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:sprout_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:living_vines_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:living_vines_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:living_vines_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:living_vines_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:entertainer_garb_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:entertainer_garb_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:entertainer_garb_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:entertainer_garb_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:troubadour_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:troubadour_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:troubadour_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:troubadour_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:teleportation_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:teleportation_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:teleportation_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:teleportation_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:unstable_robe_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:unstable_robe_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:unstable_robe_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:unstable_robe_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:phantom_armor_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:phantom_armor_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:phantom_armor_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:phantom_armor_boots",
+      "required": false
+    },
+    {
+      "id": "mcda:sweet_tooth_helmet",
+      "required": false
+    },
+    {
+      "id": "mcda:sweet_tooth_chestplate",
+      "required": false
+    },
+    {
+      "id": "mcda:sweet_tooth_leggings",
+      "required": false
+    },
+    {
+      "id": "mcda:sweet_tooth_boots",
+      "required": false
+    }
+  ]
+}
