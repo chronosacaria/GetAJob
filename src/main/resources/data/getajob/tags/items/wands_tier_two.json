@@ -1,15 +1,33 @@
 {
   "replace": false,
   "values": [
-    "amethyst_imbuement:iridescent_scepter",
-
-    "#amethyst_imbuement:sojourn_scepters",
-    "#amethyst_imbuement:resonance_scepters",
-
-    "#amethyst_imbuement:redemption_scepters",
-    "#amethyst_imbuement:aegis_scepters",
-
-    "#amethyst_imbuement:lethality_scepters",
-    "#amethyst_imbuement:equinox_scepters"
+    {
+      "id": "amethyst_imbuement:iridescent_scepter",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:sojourn_scepters",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:resonance_scepters",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:redemption_scepters",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:aegis_scepters",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:lethality_scepters",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:equinox_scepters",
+      "required": false
+    }
   ]
 }

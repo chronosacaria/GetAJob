@@ -1,15 +1,33 @@
 {
   "replace": false,
   "values": [
-    "amethyst_imbuement:opaline_scepter",
-
-    "amethyst_imbuement:skillful_scepter",
-    "amethyst_imbuement:witty_scepter",
-
-    "amethyst_imbuement:enduring_scepter",
-    "amethyst_imbuement:graceful_scepter",
-
-    "amethyst_imbuement:dangerous_scepter",
-    "amethyst_imbuement:furious_scepter"
+    {
+      "id": "amethyst_imbuement:opaline_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:skillful_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:witty_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:enduring_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:graceful_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:dangerous_scepter",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:furious_scepter",
+      "required": false
+    }
   ]
 }

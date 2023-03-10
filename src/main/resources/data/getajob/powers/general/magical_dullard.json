@@ -1,11 +1,5 @@
 {
   "type": "origins:multiple",
-  "block_books_of_mythos": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "amethyst_imbuement:book_of_mythos"
-    }
-  },
   "block_disenchanting": {
     "type": "origins:prevent_block_use",
     "block_condition": {
@@ -20,44 +14,65 @@
       "block": "minecraft:enchanting_table"
     }
   },
-  "block_spectrum_upper_tier": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:in_tag",
-      "tag": "getajob:spectrum_upper_tier"
-    }
-  },
-  "block_wand_usage_tier_two": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:in_tag",
-      "tag": "getajob:wands_tier_two"
-    }
-  },
-  "block_wand_usage_tier_three": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:in_tag",
-      "tag": "getajob:wands_tier_three"
-    }
-  },
   "block_conjuring_blocks": {
-    "type": "origins:prevent_item_use",
+    "type": "origins:prevent_block_use",
     "item_condition": {
       "type": "origins:in_tag",
       "tag": "getajob:conjuring_blocks"
     }
   },
+  "block_books_of_mythos": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "amethyst_imbuement:book_of_mythos"
+      }
+    }
+  },
+  "block_spectrum_upper_tier": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient" : {
+        "tag": "getajob:spectrum_upper_tier"
+      }
+    }
+  },
+  "block_wand_usage_tier_two": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient" : {
+        "tag": "getajob:wands_tier_two"
+      }
+    }
+  },
+  "block_wand_usage_tier_three": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient" : {
+        "tag": "getajob:wands_tier_three"
+      }
+    }
+  },
   "block_conjuring_scepter": {
     "type": "origins:prevent_item_use",
     "item_condition": {
-      "type": "conjuring:conjuring_scepter"
+      "type": "origins:ingredient",
+      "ingredient" : {
+        "item": "conjuring:conjuring_scepter"
+      }
     }
   },
   "block_superior_conjuring_scepter": {
     "type": "origins:prevent_item_use",
     "item_condition": {
-      "type": "conjuring:superior_conjuring_scepter"
+      "type": "origins:ingredient",
+      "ingredient" : {
+        "item": "conjuring:superior_conjuring_scepter"
+      }
     }
   }
 }

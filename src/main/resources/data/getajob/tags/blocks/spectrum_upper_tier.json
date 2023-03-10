@@ -1,25 +1,81 @@
 {
   "replace": false,
   "values": [
-    "spectrum:pedestal_onyx",
-    "spectrum:pedestal_moonstone",
-    "#spectrum:fusion_shrines",
-    "spectrum:enchanter",
-    "#spectrum:item_bowls",
-    "spectrum:crystallarieum",
-    "spectrum:cinderhearth",
-    "spectrum:crystal_apothecary",
-    "spectrum:inkwell",
-    "spectrum:ink_duct",
-    "#spectrum:upgrades",
-    "spectrum:vanilla_semi_permeable_glass",
-    "spectrum:tinted_semi_permeable_glass",
-    "spectrum:glowing_semi_permeable_glass",
-    "spectrum:topaz_semi_permeable_glass",
-    "spectrum:amethyst_semi_permeable_glass",
-    "spectrum:citrine_semi_permeable_glass",
-    "spectrum:onyx_semi_permeable_glass",
-    "spectrum:moonstone_semi_permeable_glass"
-
+    {
+      "id": "spectrum:pedestal_onyx",
+      "required": false
+    },
+    {
+      "id": "spectrum:pedestal_moonstone",
+      "required": false
+    },
+    {
+      "id": "#spectrum:fusion_shrines",
+      "required": false
+    },
+    {
+      "id": "spectrum:enchanter",
+      "required": false
+    },
+    {
+      "id": "spectrum:crystallarieum",
+      "required": false
+    },
+    {
+      "id": "spectrum:cinderhearth",
+      "required": false
+    },
+    {
+      "id": "spectrum:crystal_apothecary",
+      "required": false
+    },
+    {
+      "id": "spectrum:inkwell",
+      "required": false
+    },
+    {
+      "id": "spectrum:ink_duct",
+      "required": false
+    },
+    {
+      "id": "spectrum:vanilla_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:tinted_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:glowing_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:topaz_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:amethyst_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:citrine_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:onyx_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "spectrum:moonstone_semi_permeable_glass",
+      "required": false
+    },
+    {
+      "id": "#spectrum:item_bowls",
+      "required": false
+    },
+    {
+      "id": "#spectrum:upgrades",
+      "required": false
+    }
   ]
 }

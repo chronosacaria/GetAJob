@@ -1,12 +1,33 @@
 {
   "replace": false,
   "values": [
-    "conjuring:conjurer",
-    "conjuring:soulfire_forge",
-    "conjuring:blackstone_pedestal",
-    "conjuring:soul_funnel",
-    "conjuring:soul_weaver",
-    "conjuring:gem_tinkerer",
-    "conjuring:gem_tinkerer"
+    {
+      "id":"conjuring:conjurer",
+      "required": false
+    },
+    {
+      "id":"conjuring:soulfire_forge",
+      "required": false
+    },
+    {
+      "id":"conjuring:blackstone_pedestal",
+      "required": false
+    },
+    {
+      "id":"conjuring:soul_funnel",
+      "required": false
+    },
+    {
+      "id":"conjuring:soul_weaver",
+      "required": false
+    },
+    {
+      "id":"conjuring:gem_tinkerer",
+      "required": false
+    },
+    {
+      "id":"conjuring:gem_tinkerer",
+      "required": false
+    }
   ]
 }
