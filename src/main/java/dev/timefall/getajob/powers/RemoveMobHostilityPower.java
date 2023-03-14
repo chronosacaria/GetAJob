@@ -43,7 +43,7 @@ public class RemoveMobHostilityPower extends Power {
      * TargetGoal goal type. This means entities with brains (Piglins, Hoglins, and Villagers) won't be affected by this
      * power.</p>
      * <p>POWER_DESC: Removes the hostility of undead mobs towards the player.</p>
-     * 
+     *
      */
     public RemoveMobHostilityPower(PowerType<?> type, LivingEntity entity, Predicate<LivingEntity> entityCondition) {
         super(type, entity);
