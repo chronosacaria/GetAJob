@@ -4,7 +4,8 @@
     "no_smithing_table": {
         "type": "origins:prevent_block_use",
         "block_condition": {
-            "type": "minecraft:smithing_table"
+            "type": "origins:block",
+            "block": "minecraft:smithing_table"
         }
     },
     "no_advance_anvil": {

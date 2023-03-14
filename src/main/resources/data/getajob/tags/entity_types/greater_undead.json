@@ -1,0 +1,88 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:drowned",
+    "minecraft:husk",
+    "minecraft:phantom",
+    "minecraft:skeleton",
+    "minecraft:skeleton_horse",
+    "minecraft:stray",
+    "minecraft:zoglin",
+    "minecraft:zombie",
+    "minecraft:zombie_horse",
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin",
+    {
+      "id": "graveyard:skeleton_creeper",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:glacial_hunter",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:mummy",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:swampy",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:frostbitten",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:burned",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:undead_miner",
+      "required": false
+    },
+    {
+      "id": "betternether:jungle_skeleton",
+      "required": false
+    },
+    {
+      "id": "betternether:skull",
+      "required": false
+    },
+    {
+      "id": "graveyard:ghoul",
+      "required": false
+    },
+    {
+      "id": "graveyard:reaper",
+      "required": false
+    },
+    {
+      "id": "graveyard:revenant",
+      "required": false
+    },
+    {
+      "id": "graveyard:corrupted_vindicator",
+      "required": false
+    },
+    {
+      "id": "graveyard:corrupted_pillager",
+      "required": false
+    },
+    {
+      "id": "graveyard:wraith",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:immortal",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:dead_beard",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:nightmare",
+      "required": false
+    }
+  ]
+}

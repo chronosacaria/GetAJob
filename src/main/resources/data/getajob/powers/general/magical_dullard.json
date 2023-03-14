@@ -14,13 +14,6 @@
       "block": "minecraft:enchanting_table"
     }
   },
-  "block_conjuring_blocks": {
-    "type": "origins:prevent_block_use",
-    "item_condition": {
-      "type": "origins:in_tag",
-      "tag": "getajob:conjuring_blocks"
-    }
-  },
   "block_books_of_mythos": {
     "type": "origins:prevent_item_use",
     "item_condition": {
@@ -54,24 +47,6 @@
       "type": "origins:ingredient",
       "ingredient" : {
         "tag": "getajob:wands_tier_three"
-      }
-    }
-  },
-  "block_conjuring_scepter": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:ingredient",
-      "ingredient" : {
-        "item": "conjuring:conjuring_scepter"
-      }
-    }
-  },
-  "block_superior_conjuring_scepter": {
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:ingredient",
-      "ingredient" : {
-        "item": "conjuring:superior_conjuring_scepter"
       }
     }
   }

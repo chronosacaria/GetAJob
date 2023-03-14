@@ -1,5 +1,6 @@
 {
     "powers": [
+        "getajob:general/no_necromancy"
     ],
     "icon": "minecraft:potion",
     "order": 4,

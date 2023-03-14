@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_golem",
+    {
+      "id": "takesapillage:clay_golem",
+      "required": false
+    },
+    {
+      "id": "guardvillagers:guard",
+      "required": false
+    }
+  ]
+}

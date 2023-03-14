@@ -1,6 +1,6 @@
 {
     "type": "origins:multiple",
-    "cultivars":{
+    "cultivars": {
         "type": "origins:replace_loot_table",
         "replace": {
             "culturaldelights:blocks/wild_corn"             : "getajob:blocks/culturaldelights/wild_corn_override",
@@ -24,6 +24,15 @@
 
             "nethersdelight:blocks/crimson_fungus_colony"   : "getajob:blocks/nehtersdelight/crimson_fungus_colony_override",
             "nethersdelight:blocks/warped_fungus_colony"    : "getajob:blocks/nehtersdelight/crimson_fungus_colony_override"
+        }
+    },
+    "block_bone_meal_usage": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient" : {
+                "item": "minecraft:bone_meal"
+            }
         }
     }
 }

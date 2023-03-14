@@ -1,7 +1,9 @@
 {
     "powers": [
         "getajob:general/simple_brewing_knowledge",
-        "getajob:general/city_folk"
+        "getajob:general/city_folk",
+        "getajob:general/no_necromancy"
+
     ],
     "icon": "minecraft:stick",
     "impact": 0

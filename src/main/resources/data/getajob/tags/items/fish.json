@@ -1,0 +1,201 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:cod_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_cod_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:salmon_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_salmon_slice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:salmon_roll",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cod_roll",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:fish_stew",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:baked_cod_stew",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:squid_ink_pasta",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:grilled_salmon",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:cooked_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:glow_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:raw_calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:cooked_calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:fish_taco",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:pufferfish_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:tropical_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:rice_ball",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:calamari_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelight:exotic_roll_medley",
+      "required": false
+    },
+    {
+      "id": "farmersrespite:black_cod",
+      "required": false
+    },
+    {
+      "id": "crittersandcompanions:koi_fish",
+      "required": false
+    },
+    {
+      "id": "betterend:end_fish_raw",
+      "required": false
+    },
+    {
+      "id": "betterend:end_fish_cooked",
+      "required": false
+    },
+    {
+      "id": "ecologics:crab_claw",
+      "required": false
+    },
+    {
+      "id": "ecologics:crab_meat",
+      "required": false
+    },
+    {
+      "id": "ecologics:tropical_stew",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:splashtail",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_splashtail",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:pondie",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_pondie",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:islehopper",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_islehopper",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:ancientscale",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_ancientscale",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:plentifin",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_plentifin",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:wildsplash",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_wildsplash",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:devilfish",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_devilfish",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:battlegill",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_battlegill",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:wrecker",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_wrecker",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:stormfish",
+      "required": false
+    },
+    {
+      "id": "fishofthieves:cooked_stormfish",
+      "required": false
+    },
+    {
+      "id": "goodall:bucket_of_krill",
+      "required": false
+    }
+  ]
+}

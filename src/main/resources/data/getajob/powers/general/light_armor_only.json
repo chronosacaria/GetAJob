@@ -1,0 +1,57 @@
+{
+  "type": "origins:multiple",
+  "medium_armor_restriction": {
+    "type": "origins:restrict_armor",
+    "head": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:medium_armor"
+      }
+    },
+    "chest": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:medium_armor"
+      }
+    },
+    "legs": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:medium_armor"
+      }
+    },
+    "feet": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:medium_armor"
+      }
+    }
+  },
+  "heavy_armor_restriction": {
+    "type": "origins:restrict_armor",
+    "head": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:heavy_armor"
+      }
+    },
+    "chest": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:heavy_armor"
+      }
+    },
+    "legs": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:heavy_armor"
+      }
+    },
+    "feet": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "getajob:heavy_armor"
+      }
+    }
+  }
+}

@@ -1,12 +1,46 @@
 {
   "layer.origins-classes.jobs.name": "Job.",
 
+  "General Powers": "_comment",
+
+  "power.getajob.general/city_folk.name": "City Folk",
+  "power.getajob.general/city_folk.description": "You are not accustomed to the outdoors or the wilderness. You have difficulty harvesting wild crops.",
+
+  "power.getajob.general/simple_brewing_knowledge.name": "Simple Brewing Knowledge",
+  "power.getajob.general/simple_brewing_knowledge.description": "You have a basic knowledge of how brewing works. You can use a simple brewing stand.",
+
+  "power.getajob.general/light_armor_only.name": "Light Armor Preference",
+  "power.getajob.general/light_armor_only.description": "Whether by requirement or preference, you are limited to wearing light armor.",
+
+  "Summoner Origin and Powers": "_comment",
+
   "origin.getajob.summoner.name": "Summoner",
   "origin.getajob.summoner.description": "Summoner Description (Plz don't forget to update me :( )",
 
-  "power.getajob.simple_brewing_knowledge.name": "Simple Brewing Knowledge",
-  "power.getajob.simple_brewing_knowledge.description": "You have a basic knowledge of how brewing works. You can use a simple brewing stand.",
+  "Necromancer Origin and Powers": "_comment",
 
-  "power.getajob.city_folk.name": "City Folk",
-  "power.getajob.city_folk.description": "You are not accustomed to the outdoors or the wilderness. You have difficulty harvesting wild crops."
+  "origin.getajob.corpse_carver.name": "Corpse Carver",
+  "origin.getajob.corpse_carver.description": "You've always been fascinated by the Dark Arts, but you've kept this interest to yourself. Perhaps your penchant for necromancy can lead you to the power that you desire.",
+
+  "origin.getajob.bone_builder.name": "Bone Builder",
+  "origin.getajob.bone_builder.description": "You've done it! Your quest to Undeath has begun! Whilst you feel physically weaker, the necromantic energies that you've been studying begin to surge through your withering body.",
+
+  "origin.getajob.necromancer/thanatologist.name": "Thanatologist",
+  "origin.getajob.necromancer/thanatologist.description": "Your research in the Dark Arts has transformed you into the very thing that you sought to control. However, you have retained your mind and will.",
+
+  "power.getajob.necromancer/villager_hated.name": "Hated by Villagers",
+  "power.getajob.necromancer/villager_hated.description": "Due to your interest in the Dark Arts, you have become a social outcast. Villagers will not trade with you and you will be attacked on sight.",
+
+  "power.getajob.necromancer/undead.name": "Nature of Undeath",
+  "power.getajob.necromancer/undead.description": "You have become so attuned to the nature of undeath that you have become undead, yourself. You will burn in sunlight if your head is not covered.",
+
+  "power.getajob.necromancer/hunger_for_souls.name": "Hunger for Souls",
+  "power.getajob.necromancer/hunger_for_souls.description": "In your quest for undeath, you have become unable to digest food normally. However, you can subsist on the power of souls. You are able to consume Conjuration Essence in lieu of food.",
+
+  "power.getajob.necromancer/forge_gilded_soul.name": "Forge Gilded Souls",
+  "power.getajob.necromancer/forge_gilded_soul.description": "Through your research, you've uncovered a way to increase the potency of the souls that you've taken to consuming. By infusing them with gold, they seem to give you more sustenance, but they feel somewhat...unstable.",
+
+  "power.getajob.necromancer/undead_affinity_greater.name": "Greater Undead Affinity",
+  "power.getajob.necromancer/undead_affinity_greater.description": "Due to your undead nature and the scale of your necromantic powers, nearly all undead are neutral to you."
+
 }

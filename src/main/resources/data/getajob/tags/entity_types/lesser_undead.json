@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:drowned",
+    "minecraft:husk",
+    "minecraft:phantom",
+    "minecraft:skeleton",
+    "minecraft:skeleton_horse",
+    "minecraft:stray",
+    "minecraft:zoglin",
+    "minecraft:zombie",
+    "minecraft:zombie_horse",
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin",
+    {
+      "id": "graveyard:skeleton_creeper",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:glacial_hunter",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:mummy",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:swampy",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:frostbitten",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:burned",
+      "required": false
+    },
+    {
+      "id": "rottencreatures:undead_miner",
+      "required": false
+    },
+    {
+      "id": "betternether:jungle_skeleton",
+      "required": false
+    },
+    {
+      "id": "betternether:skull",
+      "required": false
+    }
+
+  ]
+}

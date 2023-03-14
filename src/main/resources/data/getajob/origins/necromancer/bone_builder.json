@@ -1,6 +1,10 @@
 {
   "powers": [
-    "getajob:general/simple_brewing_knowledge"
+    "getajob:general/simple_brewing_knowledge",
+    "getajob:necromancer/villager_hated",
+    "getajob:necromancer/weak_stomach",
+    "getajob:necromancer/hunger_for_souls",
+    "getajob:necromancer/undead_affinity_lesser"
   ],
   "upgrades": [
     {
@@ -10,5 +14,5 @@
   ],
   "unchoosable": true,
   "icon": "minecraft:bone",
-  "impact": 0
+  "impact": 2
 }

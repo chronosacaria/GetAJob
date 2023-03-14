@@ -1,6 +1,6 @@
 {
-    "type":"origins:multiple",
-    "vanilla_villager_hated":{
+    "type": "origins:multiple",
+    "no_trading": {
         "type": "origins:prevent_entity_use",
         "bientity_condition": {
             "type": "origins:target_condition",
@@ -10,16 +10,12 @@
             }
         }
     },
-    "ai_villager_hated":{
-        "type": "origins:prevent_entity_use",
-        "bientity_condition": {
-            "type": "origins:target_condition",
-            "condition": {
-                "type": "origins:entity_type",
-                "entity_type": "amethyst_imbuement:crystal_witch"
-            }
-        }
+    "attack_on_sight": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "execute as @s run data modify entity @e[type=#getajob:village_defenders,limit=1,sort=random,distance=..64] AngryAt set from entity @s UUID"
+        },
+        "interval": 100
     }
-
-
 }

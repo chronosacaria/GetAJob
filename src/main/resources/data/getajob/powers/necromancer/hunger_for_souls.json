@@ -1,0 +1,223 @@
+{
+  "type": "origins:multiple",
+  "no_eating": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:food"
+    }
+  },
+  "soul_consumption_small": {
+    "type": "origins:active_self",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:equipped_item_action",
+          "equipment_slot": "mainhand",
+          "action": {
+            "type": "origins:consume",
+            "amount": 1
+          }
+        },
+        {
+          "type": "origins:feed",
+          "food": 1,
+          "saturation": 0.6
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "minecraft:particle.soul_escape",
+          "volume": 1.5
+        }
+      ]
+    },
+    "key": {
+      "key": "key.use",
+      "continuous": false
+    },
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "conjuring:conjuration_essence"
+            }
+          }
+        },
+        {
+          "type": "origins:food_level",
+          "comparison": "<",
+          "compare_to": 20
+        }
+      ]
+    }
+  },
+  "soul_consumption_large": {
+    "type": "origins:active_self",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:equipped_item_action",
+          "equipment_slot": "mainhand",
+          "action": {
+            "type": "origins:consume",
+            "amount": 1
+          }
+        },
+        {
+          "type": "origins:feed",
+          "food": 4,
+          "saturation": 2.4
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "minecraft:particle.soul_escape",
+          "volume": 1.5,
+          "pitch": 2
+        }
+      ]
+    },
+    "key": {
+      "key": "key.use",
+      "continuous": false
+    },
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:equipped_item",
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "item": "conjuring:lesser_conjuration_essence"
+            }
+          }
+        },
+        {
+          "type": "origins:food_level",
+          "comparison": "<",
+          "compare_to": 20
+        }
+      ]
+    }
+  },
+  "soul_consumption_gilded": {
+      "type": "origins:active_self",
+      "entity_action": {
+        "type": "origins:and",
+        "actions": [
+          {
+            "type": "origins:equipped_item_action",
+            "equipment_slot": "mainhand",
+            "action": {
+              "type": "origins:consume",
+              "amount": 1
+            }
+          },
+          {
+            "type": "origins:if_else",
+            "condition": {
+              "type": "origins:origin",
+              "origin": "getajob:bone_builder"
+            },
+            "if_action": {
+              "type": "origins:choice",
+              "actions": [
+                {
+                  "weight": 50,
+                  "element": {
+                    "type": "origins:and",
+                    "actions": [
+                      {
+                        "type": "origins:feed",
+                        "food": 6,
+                        "saturation": 1.2
+                      },
+                      {
+                        "type": "origins:play_sound",
+                        "sound": "minecraft:particle.soul_escape",
+                        "volume": 1.5
+                      }
+                    ]
+                  }
+                },
+                {
+                  "weight": 50,
+                  "element": {
+                    "type": "origins:explode",
+                    "power": 1,
+                    "destruction_type": "none",
+                    "damage_self": true,
+                    "create_fire": false
+                  }
+                }
+              ]
+            },
+            "else_action": {
+              "type": "origins:choice",
+              "actions": [
+                {
+                  "weight": 80,
+                  "element": {
+                    "type": "origins:and",
+                    "actions": [
+                      {
+                        "type": "origins:feed",
+                        "food": 6,
+                        "saturation": 1.2
+                      },
+                      {
+                        "type": "origins:play_sound",
+                        "sound": "minecraft:particle.soul_escape",
+                        "volume": 1.5
+                      }
+                    ]
+                  }
+                },
+                {
+                  "weight": 20,
+                  "element": {
+                    "type": "origins:explode",
+                    "power": 1,
+                    "destruction_type": "none",
+                    "damage_self": true,
+                    "create_fire": false
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "key": {
+        "key": "key.use",
+        "continuous": false
+      },
+      "condition": {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+              "type": "origins:ingredient",
+              "ingredient": {
+                "item": "getajob:gilded_soul"
+              }
+            }
+          },
+          {
+            "type": "origins:food_level",
+            "comparison": "<",
+            "compare_to": 20
+          }
+        ]
+      }
+    }
+  }

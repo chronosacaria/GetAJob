@@ -1,0 +1,12 @@
+{
+  "type": "origins:multiple",
+  "no_eating": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "minecraft:meat"
+      }
+    }
+  }
+}

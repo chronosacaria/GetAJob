@@ -4,13 +4,19 @@
     "passive": {
         "type": "origins:prevent_item_use",
         "item_condition": {
-            "type": "mob_catcher:mob_catcher"
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "mob_catcher:mob_catcher"
+            }
         }
     },
     "hostile": {
         "type": "origins:prevent_item_use",
         "item_condition": {
-            "type": "mob_catcher:mob_catcher_hostile"
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "mob_catcher:mob_catcher_hostile"
+            }
         }
     }
 }

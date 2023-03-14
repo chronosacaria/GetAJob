@@ -1,0 +1,23 @@
+{
+  "type": "origins:recipe",
+  "recipe": {
+    "type": "minecraft:crafting_shaped",
+    "id": "origins:necromancer_craft_gilded_soul",
+    "pattern": [
+      "###",
+      "#S#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_ingot"
+      },
+      "S": {
+        "item": "conjuring:conjuration_essence"
+      }
+    },
+    "result": {
+      "item": "getajob:gilded_soul"
+    }
+  }
+}
