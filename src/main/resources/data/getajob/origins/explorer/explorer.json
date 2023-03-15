@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "getajob:general/simple_brewing_knowledge",
+    "getajob:general/magical_dullard",
+    "getajob:general/no_necromancy",
+    "getajob:explorer/ice_walker"
+
+  ],
+  "icon": "minecraft:compass",
+  "impact": 0
+}

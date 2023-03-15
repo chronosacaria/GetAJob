@@ -1,0 +1,18 @@
+{
+  "type": "origins:multiple",
+  "ice_walking": {
+    "type": "origins:modify_slipperiness",
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 2
+    },
+    "block_condition": {
+      "type": "origins:in_tag",
+      "tag": "getajob:ice_blocks"
+    }
+  },
+  "condition": {
+    "type": "origins:advancement",
+    "advancement": "minecraft:adventure/chills_n_thrills"
+  }
+}

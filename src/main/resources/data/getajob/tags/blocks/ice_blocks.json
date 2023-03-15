@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    {
+      "id": "ecologics:thin_ice",
+      "required": false
+    },
+    {
+      "id": "ecologics:ice_bricks",
+      "required": false
+    },
+    {
+      "id": "ecologics:ice_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "ecologics:ice_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "immersive_weathering:thin_ice",
+      "required": false
+    },
+    {
+      "id": "betterend:emerald_ice",
+      "required": false
+    },
+    {
+      "id": "betterend:dense_emerald_ice",
+      "required": false
+    },
+    {
+      "id": "betterend:ancient_emerald_ice",
+      "required": false
+    },
+    {
+      "id": "byg:black_ice",
+      "required": false
+    },
+    {
+      "id": "byg:packed_black_ice",
+      "required": false
+    }
+  ]
+}

@@ -4,6 +4,7 @@
   "enabled": true,
   "origins": [
     "getajob:alchemist",
+    "getajob:explorer/explorer",
     "getajob:necromancer/corpse_carver",
     "getajob:necromancer/bone_builder",
     "getajob:necromancer/thanatologist",

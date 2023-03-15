@@ -5,6 +5,12 @@
         "getajob:general/no_necromancy"
 
     ],
+    "upgrades": [
+    {
+        "condition": "conjuring:soulfire_forge",
+        "origin": "getajob:necromancer/bone_builder"
+    }
+],
     "icon": "minecraft:compass",
     "impact": 0
 }
