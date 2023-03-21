@@ -19,5 +19,20 @@ public class GetAJob implements ModInitializer {
         GetAJobEntityConditions.register();
         GetAJobPowersRegistry.register();
         ItemsRegistry.init();
+
+
+        /*
+        Health Amount  |  Non Explorer  | Explorer w/o Old Friends | Explorer w Old Friends
+        100%           |    100%        | 100%                     | 120%
+        90%            |    100%        | 87%                      | 92%
+        80%            |    100%        | 78%                      | 83%
+        70%            |    100%        | 71%                      | 76%
+        60%            |    100%        | 65%                      | 70%
+        50%            |    100%        | 60%                      | 65%
+        40%            |    100%        | 56%                      | 61%
+        30%            |    100%        | 53%                      | 58%
+        20%            |    100%        | 51%                      | 56%
+        10%            |    100%        | 50%                      | 55%
+         */
     }
 }
