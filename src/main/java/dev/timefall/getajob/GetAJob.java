@@ -1,7 +1,8 @@
 package dev.timefall.getajob;
 
+import dev.timefall.getajob.registries.GetAJobEntityConditions;
 import dev.timefall.getajob.registries.ItemsRegistry;
-import dev.timefall.getajob.registries.factories.GetAJobPowerFactories;
+import dev.timefall.getajob.registries.factories.GetAJobPowersRegistry;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
 
@@ -15,7 +16,8 @@ public class GetAJob implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        GetAJobPowerFactories.register();
+        GetAJobEntityConditions.register();
+        GetAJobPowersRegistry.register();
         ItemsRegistry.init();
     }
 }

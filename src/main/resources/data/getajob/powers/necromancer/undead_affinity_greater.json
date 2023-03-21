@@ -1,5 +1,6 @@
 {
-  "type": "getajob:remove_mob_hostility",
+  "type": "getajob:modify_entity_behavior",
+  "behavior": "neutral",
   "entity_condition": {
     "type": "origins:in_tag",
     "tag": "greater_undead"

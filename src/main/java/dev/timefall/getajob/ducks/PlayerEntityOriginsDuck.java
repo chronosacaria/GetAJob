@@ -1,10 +1,6 @@
-package dev.timefall.getajob.registries.factories;
+package dev.timefall.getajob.ducks;
 
-import dev.timefall.getajob.powers.RemoveMobHostilityPower;
-import io.github.apace100.apoli.power.factory.PowerFactory;
-import io.github.apace100.apoli.power.factory.PowerFactorySupplier;
-import io.github.apace100.apoli.registry.ApoliRegistries;
-import net.minecraft.util.registry.Registry;
+import io.github.apace100.origins.origin.Origin;
 
 /**
  * Copyright (c) 2023 UltrusBot, provided under
@@ -29,16 +25,7 @@ import net.minecraft.util.registry.Registry;
  * THE SOFTWARE.
  */
 
-public class GetAJobPowerFactories {
-    public static void register() {
-        register(RemoveMobHostilityPower::createFactory);
-    }
-
-    private static void register(PowerFactorySupplier<?> supplier) {
-        register(supplier.createFactory());
-    }
-
-    private static void register(PowerFactory<?> factory) {
-        Registry.register(ApoliRegistries.POWER_FACTORY, factory.getSerializerId(), factory);
-    }
+public interface PlayerEntityOriginsDuck {
+    Origin getOrigin();
+    void setOrigin(Origin origin);
 }

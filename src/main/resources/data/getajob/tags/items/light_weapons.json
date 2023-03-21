@@ -1,0 +1,485 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:dagger_backstabber",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_chill_gale_knife",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_dagger",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_fangs_of_frost",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_moon",
+      "required": false
+    },
+    {
+      "id": "mcdw:resolute_tempest_knife",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_shear_dagger",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_swift_striker",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_tempest_knife",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_the_beginning",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_the_end",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_void_touched_blade",
+      "required": false
+    },
+    {
+      "id": "mcdw:gauntlet_gauntlet",
+      "required": false
+    },
+    {
+      "id": "mcdw:gauntlet_maulers",
+      "required": false
+    },
+    {
+      "id": "mcdw:gauntlet_soul_fists",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_beestinger",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_freezing_foil",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_rapier",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_last_laugh_gold",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_last_laugh_silver",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_nightmares_bite",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_sickle",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_staff",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_sai",
+      "required": false
+    },
+    {
+      "id": "simplyswords:bramblethorn",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulstealer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:shadowsting",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:adamantite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:aquarium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:banglum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:bronze_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:carmot_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:celestium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:hallowed_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:mythril_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:copper_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:copper_knife_et",
+      "required": false
+    },
+    {
+      "id": "farmersknives:copper_knife_mm",
+      "required": false
+    },
+    {
+      "id": "farmersknives:durasteel_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:kyber_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:legendary_banglum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:metallurgium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:orichalcum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:osmium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:palladium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:prometheum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:quadrillum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:runite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:steel_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:steel_knife_et",
+      "required": false
+    },
+    {
+      "id": "farmersknives:steel_knife_mm",
+      "required": false
+    },
+    {
+      "id": "farmersknives:stormyx_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:star_platinum_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:midas_gold_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:gilded_midas_gold_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:aeternium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:thallasium_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:terminite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:cincinnasite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:cincinnasite_knife_diamond",
+      "required": false
+    },
+    {
+      "id": "farmersknives:nether_ruby_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:pendorite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:soul_alloy_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:emerald_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:ruby_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:amethyst_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:obsidian_knife",
+      "required": false
+    },
+    {
+      "id": "farmersknives:adamantite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:gold_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "spectrum:dreamflayer",
+      "required": false
+    },
+    {
+      "id": "immersive_weathering:ice_sickle",
+      "required": false
+    }
+  ]
+}

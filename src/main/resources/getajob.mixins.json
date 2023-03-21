@@ -4,6 +4,8 @@
   "package": "dev.timefall.getajob.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ActiveTargetGoalMixin",
+    "PlayerEntityMixin_DELETE_ME",
     "TargetGoalMixin"
   ],
   "client": [

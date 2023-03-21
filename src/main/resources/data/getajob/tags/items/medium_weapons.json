@@ -1,0 +1,1089 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:wooden_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:gold_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "required": false
+    },
+    {
+      "id": "mcdw:axe_firebrand",
+      "required": false
+    },
+    {
+      "id": "mcdw:axe_highland",
+      "required": false
+    },
+    {
+      "id": "mcdw:axe_highland",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_cackling_broom",
+      "required": false
+    },
+    {
+      "id": "mcdw:hammer_flail",
+      "required": false
+    },
+    {
+      "id": "mcdw:hammer_mace",
+      "required": false
+    },
+    {
+      "id": "mcdw:hammer_suns_grace",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_broken_sawblade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_coral_blade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_cutlass",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_dancers_sword",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_dark_katana",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_diamond_sword_var",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_hawkbrand",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_iron_sword_var",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_katana",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_masters_katana",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_mechanized_sawblade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_nameless_blade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_sinister",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_sponge_striker",
+      "required": false
+    },
+    {
+      "id": "mcdw:staff_battlestaff",
+      "required": false
+    },
+    {
+      "id": "mcdw:staff_battlestaff_of_terror",
+      "required": false
+    },
+    {
+      "id": "mcdw:staff_growing_staff",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_spear",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_whispering_spear",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_fortune",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_eternal_knife",
+      "required": false
+    },
+    {
+      "id": "mcdw:dagger_soul_knife",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_truthseeker",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:aquarium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:banglum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:bronze_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_axe",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_axe",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:mythril_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:mythril_axe",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:copper_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:quadrillum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:steel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:star_platinum_axe",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:midas_gold_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:gilded_midas_gold_sword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/copper/copper_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:toxic_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_twinblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_katana",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:watching_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_warglaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_cutlass",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:storms_edge",
+      "required": false
+    },
+    {
+      "id": "simplyswords:stormbringer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:sword_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "simplyswords:emberblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:frostfall",
+      "required": false
+    },
+    {
+      "id": "simplyswords:molten_edge",
+      "required": false
+    },
+    {
+      "id": "simplyswords:livyatan",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_axe",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_sword",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_axe",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_axe_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:ruby_nether_hammer",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_hammer",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_hammer_diamond",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_sword",
+      "required": false
+    },
+    {
+      "id": "betterend:thallasium_sword",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_sword",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_sword",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:garnet_sword",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:glowing_blade",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_sword",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:gold_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_sword",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:ancient_vessel",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_1",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_2",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_3",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:wither_vessel",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_1",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_2",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_3",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:dragon_vessel",
+      "required": false
+    },
+    {
+      "id": "conjuring:soul_alloy_sword",
+      "required": false
+    },
+    {
+      "id": "enderswords:wooden_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:stone_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:golden_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:iron_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:diamond_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:netherite_endersword",
+      "required": false
+    },
+    {
+      "id": "graveyard:bone_dagger",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:iron_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:golden_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:diamond_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:netherite_machete",
+      "required": false
+    },
+    {
+      "id": "minecraft:trident",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:glistering_trident",
+      "required": false
+    },
+    {
+      "id": "spectrum:razor_falchion",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:fiery_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:lapis_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:quartz_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:prismarine_hammer",
+      "required": false
+    }
+  ]
+}

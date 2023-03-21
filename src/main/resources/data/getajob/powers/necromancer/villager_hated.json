@@ -11,11 +11,11 @@
         }
     },
     "attack_on_sight": {
-        "type": "origins:action_over_time",
-        "entity_action": {
-            "type": "origins:execute_command",
-            "command": "execute as @s run data modify entity @e[type=#getajob:village_defenders,limit=1,sort=random,distance=..64] AngryAt set from entity @s UUID"
-        },
-        "interval": 100
+        "type": "getajob:modify_entity_behavior",
+        "behavior": "hostile",
+        "entity_condition": {
+            "type": "origins:in_tag",
+            "tag": "village_defenders"
+        }
     }
 }
