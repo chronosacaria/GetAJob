@@ -1,0 +1,9 @@
+{
+  "entity_types": [
+    "betternether:jungle_skeleton",
+    "betternether:skull"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/undead_affinity_lesser"
+  ]
+}

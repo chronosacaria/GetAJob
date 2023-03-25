@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "davespotioneering:compound_brewing_stand",
+      "required": false
+    },
+    {
+      "id": "davespotioneering:potion_injector",
+      "required": false
+    },
+    {
+      "id": "davespotioneering:compound_reinforced_cauldron",
+      "required": false
+    },
+    {
+      "id": "spectrum:potion_workshop",
+      "required": false
+    },
+    {
+      "id": "spectrum:spirit_instiller",
+      "required": false
+    },
+    {
+      "id": "spectrum:crystal_apothecary",
+      "required": false
+    }
+  ]
+}

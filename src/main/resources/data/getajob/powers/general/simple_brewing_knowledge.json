@@ -1,45 +1,7 @@
 {
-    "type": "origins:multiple",
-    "block_compound_brewing": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "davespotioneering:compound_brewing_stand"
-        }
-    },
-    "block_potion_injecting": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "davespotioneering:potion_injector"
-        }
-    },
-    "block_reinforced_cauldron": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "davespotioneering:reinforced_cauldron"
-        }
-    },
-    "block_potion_workshop": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "spectrum:potion_workshop"
-        }
-    },
-    "block_spirit_instiller": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "spectrum:spirit_instiller"
-        }
-    },
-    "block_crystal_apothecary": {
-        "type": "origins:prevent_block_use",
-        "block_condition": {
-            "type": "origins:block",
-            "block": "spectrum:crystal_apothecary"
-        }
+    "type": "origins:prevent_block_use",
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "advance_brewing_blocks"
     }
 }

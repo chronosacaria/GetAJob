@@ -37,6 +37,11 @@ repositories {
     maven {
         url "https://maven.terraformersmc.com/"
     }
+    repositories {
+        flatDir {
+            dirs 'localdeps'
+        }
+    }
 }
 
 dependencies {
@@ -48,11 +53,23 @@ dependencies {
     // Fabric API. This is technically optional, but you probably want it anyway.
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
-    // Origins
-    modImplementation "com.github.eggohito:origins-fabric:${project.origins_version}"
+    // Player Ability Lib
+    modImplementation "io.github.ladysnake:PlayerAbilityLib:${pal_version}"
+
+    // Additional Entity Attributes
+    modImplementation "com.github.DaFuqs:AdditionalEntityAttributes:${project.aea_version}"
+
+    // Origins (Egghito)
+    // modImplementation "com.github.eggohito:origins-fabric:${project.origins_version}"
+
+    // Origins (Apace)
+    modImplementation "com.github.apace100:origins-fabric:${project.origins_version}"
 
     // Apoli
-    modImplementation "com.github.eggohito:apoli:${project.apoli_version}"
+    // modImplementation "com.github.eggohito:apoli:${project.apoli_version}"
+
+    // Apoli (Merchant Pug)
+    modImplementation("com.github.apace100:apoli:${project.apoli_version}")
 
     // Calio
     modImplementation "com.github.apace100:calio:${project.calio_version}"

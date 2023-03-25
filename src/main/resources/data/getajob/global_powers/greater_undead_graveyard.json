@@ -1,0 +1,16 @@
+{
+  "entity_types": [
+    "graveyard:ghoul",
+    "graveyard:reaper",
+    "graveyard:revenant",
+    "graveyard:corrupted_vindicator",
+    "graveyard:corrupted_pillager",
+    "graveyard:wraith",
+    "rottencreatures:immortal",
+    "rottencreatures:dead_beard",
+    "mythicmounts:nightmare"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/undead_affinity_greater"
+  ]
+}

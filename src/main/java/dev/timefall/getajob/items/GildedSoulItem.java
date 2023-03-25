@@ -6,7 +6,6 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import net.minecraft.world.World;
-import net.minecraft.world.explosion.Explosion;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
@@ -26,7 +25,7 @@ public class GildedSoulItem extends Item {
     public ItemStack finishUsing(ItemStack stack, World world, LivingEntity user) {
         if (world.random.nextInt(100) >= 0) {
             user.getMainHandStack().decrement(1);
-            world.createExplosion(user, user.getX(), user.getEyeY(), user.getZ(), 2.0f, Explosion.DestructionType.NONE);
+            world.createExplosion(user, user.getX(), user.getEyeY(), user.getZ(), 2.0f, World.ExplosionSourceType.NONE);
         }
         return super.finishUsing(stack, world, user);
     }

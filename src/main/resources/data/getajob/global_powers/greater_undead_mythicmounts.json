@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "mythicmounts:nightmare"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/undead_affinity_greater"
+  ]
+}

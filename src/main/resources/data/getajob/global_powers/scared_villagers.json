@@ -1,0 +1,9 @@
+{
+  "entity_types": [
+    "minecraft:villager",
+    "minecraft:wandering_trader"
+  ],
+  "powers": [
+    "getajob:scared"
+  ]
+}

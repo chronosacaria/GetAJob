@@ -9,13 +9,5 @@
                 "entity_type": "minecraft:villager"
             }
         }
-    },
-    "attack_on_sight": {
-        "type": "getajob:modify_entity_behavior",
-        "behavior": "hostile",
-        "entity_condition": {
-            "type": "origins:in_tag",
-            "tag": "village_defenders"
-        }
     }
 }

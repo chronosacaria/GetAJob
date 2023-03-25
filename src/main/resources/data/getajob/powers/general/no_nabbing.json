@@ -1,22 +1,10 @@
 {
-    "type": "origins:multiple",
     "hidden": true,
-    "passive": {
-        "type": "origins:prevent_item_use",
-        "item_condition": {
-            "type": "origins:ingredient",
-            "ingredient": {
-                "item": "mob_catcher:mob_catcher"
-            }
-        }
-    },
-    "hostile": {
-        "type": "origins:prevent_item_use",
-        "item_condition": {
-            "type": "origins:ingredient",
-            "ingredient": {
-                "item": "mob_catcher:mob_catcher_hostile"
-            }
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient" : {
+            "tag": "mob_catching_items"
         }
     }
 }

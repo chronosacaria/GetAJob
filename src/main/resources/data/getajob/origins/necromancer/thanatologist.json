@@ -5,8 +5,7 @@
       "getajob:necromancer/undead",
       "getajob:necromancer/hunger_for_souls",
       "getajob:necromancer/forge_gilded_soul",
-      "getajob:general/light_armor_only",
-      "getajob:necromancer/undead_affinity_greater"
+      "getajob:general/light_armor_only"
 
     ],
     "icon": "graveyard:leaning_wither_skeleton",

@@ -1,0 +1,9 @@
+{
+  "entity_types": [
+    "rottencreatures:immortal",
+    "rottencreatures:dead_beard"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/undead_affinity_greater"
+  ]
+}

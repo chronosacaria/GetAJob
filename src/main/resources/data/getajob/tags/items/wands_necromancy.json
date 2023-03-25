@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "conjuring:conjuring_scepter",
+      "required": false
+    },
+    {
+      "id": "conjuring:superior_conjuring_scepter",
+      "required": false
+    }
+  ]
+}

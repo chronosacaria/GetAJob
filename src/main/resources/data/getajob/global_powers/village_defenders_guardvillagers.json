@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "guardvillagers:guard"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/unwelcomed_villages"
+  ]
+}

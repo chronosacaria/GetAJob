@@ -6,8 +6,8 @@
     "bientity_condition": {
       "type": "apoli:target_condition",
       "condition": {
-        "type": "origins:entity_type",
-        "entity_type": "minecraft:bee"
+        "type": "origins:origin",
+        "origin": "getajob:necromancer/thanatologist"
       }
     }
   }

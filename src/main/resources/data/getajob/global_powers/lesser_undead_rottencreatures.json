@@ -1,0 +1,14 @@
+{
+  "entity_types": [
+    "rottencreatures:mummy",
+    "rottencreatures:swampy",
+    "rottencreatures:frostbitten",
+    "rottencreatures:burned",
+    "rottencreatures:undead_miner",
+    "betternether:jungle_skeleton",
+    "betternether:skull"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/undead_affinity_lesser"
+  ]
+}

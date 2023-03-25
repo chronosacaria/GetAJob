@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mob_catcher:mob_catcher",
+      "required": false
+    },
+    {
+      "id": "mob_catcher:mob_catcher_hostile",
+      "required": false
+    }
+  ]
+}

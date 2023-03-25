@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "minecraft:iron_golem"
+  ],
+  "powers": [
+    "getajob:mob_behavior_modifications/unwelcomed_villages"
+  ]
+}
