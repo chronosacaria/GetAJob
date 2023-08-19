@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:whip_vine_whip",
+      "required": false
+    },
+    {
+      "id": "mcdw:whip_whip",
+      "required": false
+    }
+  ]
+}

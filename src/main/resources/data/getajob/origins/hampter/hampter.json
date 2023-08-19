@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "getajob:general/light_armor_only",
+    "origins:vegetarian",
+    "origins:velvet_paws",
+    "origins:strong_arms",
+    "origins:more_exhaustion",
+    "getajob:hampter/cheeking",
+    "getajob:hampter/is_hampter"
+  ],
+  "icon": "amethyst_imbuement:fzzyhammer",
+  "impact": 2,
+  "unchoosable": false
+}

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:fox",
+    "minecraft:cat",
+    "minecraft:ocelot",
+    "minecraft:wolf",
+    {
+      "id": "friendsandfoes:mauler",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:griffon",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:dire_wolf",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:firebird",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:acencia",
+      "required": false
+    },
+    {
+      "id": "wildlife:possum",
+      "required": false
+    },
+    {
+      "id": "wildlife:badger",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:drake",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:chupacabra",
+      "required": false
+    }
+  ]
+}

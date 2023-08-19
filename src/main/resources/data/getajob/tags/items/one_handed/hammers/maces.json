@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:hammer_flail",
+      "required": false
+    },
+    {
+      "id": "mcdw:hammer_mace",
+      "required": false
+    },
+    {
+      "id": "mcdw:hammer_suns_grace",
+      "required": false
+    }
+  ]
+}

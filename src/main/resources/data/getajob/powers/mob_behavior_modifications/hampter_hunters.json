@@ -1,0 +1,19 @@
+{
+  "type": "apoli:modify_mob_behavior",
+  "behavior": {
+    "type": "apoli:hostile",
+    "priority": 0,
+    "bientity_condition": {
+      "type": "apoli:target_condition",
+      "condition": {
+        "type": "apoli:or",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "getajob:hampter/hampter"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "emerald_tools:emerald_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:obsidian_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:amethyst_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:copper_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:gold_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:diamond_hammer",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:netherite_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:fiery_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:golden_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:iron_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:lapis_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:quartz_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:stone_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:wooden_hammer",
+      "required": false
+    },
+    {
+      "id": "vanilla-hammers:prismarine_hammer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:frostfall",
+      "required": false
+    }
+  ]
+}

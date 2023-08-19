@@ -1,8 +1,0 @@
-{
-  "entity_types": [
-    "takesapillage:clay_golem"
-  ],
-  "powers": [
-    "getajob:mob_behavior_modifications/unwelcomed_villages"
-  ]
-}

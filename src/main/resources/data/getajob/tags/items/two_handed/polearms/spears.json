@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:spear_spear",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_whispering_spear",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_fortune",
+      "required": false
+    },
+    {
+      "id": "simplyswords:sword_on_a_stick",
+      "required": false
+    }
+  ]
+}

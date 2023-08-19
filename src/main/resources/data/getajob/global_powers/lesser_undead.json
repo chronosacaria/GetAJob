@@ -1,7 +1,7 @@
 {
   "entity_types": [
-    "betternether:jungle_skeleton",
-    "betternether:skull"
+    "#getajob:lesser_undead"
+
   ],
   "powers": [
     "getajob:mob_behavior_modifications/undead_affinity_lesser"

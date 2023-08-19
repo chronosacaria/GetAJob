@@ -1,6 +1,6 @@
 {
   "entity_types": [
-    "minecraft:iron_golem"
+    "#getajob:village_defenders"
   ],
   "powers": [
     "getajob:mob_behavior_modifications/unwelcomed_villages"

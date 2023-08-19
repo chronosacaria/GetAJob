@@ -1,0 +1,9 @@
+{
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:execute_command",
+    "command": "execute if entity @s[type=player] run walkers switchShape @s amethyst_imbuement:basic_hamster",
+    "permission_level": 4
+  },
+  "execute_chosen_when_orb": true
+}

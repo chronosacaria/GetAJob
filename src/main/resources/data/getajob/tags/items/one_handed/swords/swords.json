@@ -1,0 +1,317 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:wooden_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:gold_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_broken_sawblade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_coral_blade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_diamond_sword_var",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_hawkbrand",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_iron_sword_var",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_mechanized_sawblade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_nameless_blade",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_sinister",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_sponge_striker",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:adamantite_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:aquarium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:banglum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:bronze_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:carmot_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:celestium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:hallowed_axe",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:mythril_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:copper_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:kyber_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:legendary_banglum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:metallurgium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:durasteel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:orichalcum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:osmium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:palladium_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:prometheum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:quadrillum_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:runite_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:steel_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:stormyx_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:midas_gold_sword",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:gilded_midas_gold_sword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:storms_edge",
+      "required": false
+    },
+    {
+      "id": "simplyswords:emberblade",
+      "required": false
+    },
+    {
+      "id": "simplyswords:molten_edge",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword",
+      "required": false
+    },
+    {
+      "id": "betternether:cincinnasite_sword_diamond",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_ruby_sword",
+      "required": false
+    },
+    {
+      "id": "betterend:aeternium_sword",
+      "required": false
+    },
+    {
+      "id": "betterend:thallasium_sword",
+      "required": false
+    },
+    {
+      "id": "betterend:terminite_sword",
+      "required": false
+    },
+    {
+      "id": "byg:pendorite_sword",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:garnet_sword",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:glowing_blade",
+      "required": false
+    },
+    {
+      "id": "spectrum:bedrock_sword",
+      "required": false
+    },
+    {
+      "id": "emerald_tools:emerald_sword",
+      "required": false
+    },
+    {
+      "id": "amethyst_items:amethyst_sword",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:ancient_vessel",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_1",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_2",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:decayed_vessel_3",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:wither_vessel",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_1",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_2",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:draconic_vessel_3",
+      "required": false
+    },
+    {
+      "id": "ancientvessels:dragon_vessel",
+      "required": false
+    },
+    {
+      "id": "conjuring:soul_alloy_sword",
+      "required": false
+    },
+    {
+      "id": "enderswords:wooden_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:stone_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:golden_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:iron_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:diamond_endersword",
+      "required": false
+    },
+    {
+      "id": "enderswords:netherite_endersword",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:iron_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:golden_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:diamond_machete",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:netherite_machete",
+      "required": false
+    },
+    {
+      "id": "spectrum:razor_falchion",
+      "required": false
+    },
+    {
+      "id": "simplyswords:soulstealer",
+      "required": false
+    },
+    {
+      "id": "simplyswords:bramblethorn",
+      "required": false
+    }
+  ]
+}

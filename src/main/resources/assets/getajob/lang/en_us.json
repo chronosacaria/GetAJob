@@ -19,11 +19,11 @@
 
   "Necromancer Origin and Powers": "_comment",
 
-  "origin.getajob.corpse_carver.name": "Corpse Carver",
-  "origin.getajob.corpse_carver.description": "You've always been fascinated by the Dark Arts, but you've kept this interest to yourself. Perhaps your penchant for necromancy can lead you to the power that you desire.",
+  "origin.getajob.necromancer/corpse_carver.name": "Corpse Carver",
+  "origin.getajob.necromancer/corpse_carver.description": "You've always been fascinated by the Dark Arts, but you've kept this interest to yourself. Perhaps your penchant for necromancy can lead you to the power that you desire.",
 
-  "origin.getajob.bone_builder.name": "Bone Builder",
-  "origin.getajob.bone_builder.description": "You've done it! Your quest to Undeath has begun! Whilst you feel physically weaker, the necromantic energies that you've been studying begin to surge through your withering body.",
+  "origin.getajob.necromancer/bone_builder.name": "Bone Builder",
+  "origin.getajob.necromancer/bone_builder.description": "You've done it! Your quest to Undeath has begun! Whilst you feel physically weaker, the necromantic energies that you've been studying begin to surge through your withering body.",
 
   "origin.getajob.necromancer/thanatologist.name": "Thanatologist",
   "origin.getajob.necromancer/thanatologist.description": "Your research in the Dark Arts has transformed you into the very thing that you sought to control. However, you have retained your mind and will.",

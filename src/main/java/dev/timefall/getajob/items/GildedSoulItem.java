@@ -23,7 +23,7 @@ public class GildedSoulItem extends Item {
 
     @Override
     public ItemStack finishUsing(ItemStack stack, World world, LivingEntity user) {
-        if (world.random.nextInt(100) >= 0) {
+        if (world.random.nextInt(100) <= 9) {
             user.getMainHandStack().decrement(1);
             world.createExplosion(user, user.getX(), user.getEyeY(), user.getZ(), 2.0f, World.ExplosionSourceType.NONE);
         }

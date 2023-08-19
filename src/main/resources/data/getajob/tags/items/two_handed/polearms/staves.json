@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:staff_battlestaff",
+      "required": false
+    },
+    {
+      "id": "mcdw:staff_battlestaff_of_terror",
+      "required": false
+    },
+    {
+      "id": "mcdw:staff_growing_staff",
+      "required": false
+    }
+  ]
+}

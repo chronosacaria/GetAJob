@@ -1,0 +1,113 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:sword_beestinger",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_freezing_foil",
+      "required": false
+    },
+    {
+      "id": "mcdw:sword_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_rapier",
+      "required": false
+    },
+    {
+      "id": "simplyswords:shadowsting",
+      "required": false
+    }
+  ]
+}

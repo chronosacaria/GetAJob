@@ -1,0 +1,98 @@
+{
+  "replace": false,
+  "values": [
+
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_chakram",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:spear_glaive",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_grave_bane",
+      "required": false
+    },
+    {
+      "id": "mcdw:spear_venom_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_glaive",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_glaive",
+      "required": false
+    }
+  ]
+}

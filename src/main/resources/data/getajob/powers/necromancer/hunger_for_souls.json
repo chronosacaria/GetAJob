@@ -32,7 +32,7 @@
       ]
     },
     "key": {
-      "key": "key.use",
+      "key": "key.origins.secondary_active",
       "continuous": false
     },
     "condition": {
@@ -83,7 +83,7 @@
       ]
     },
     "key": {
-      "key": "key.use",
+      "key": "key.origins.secondary_active",
       "continuous": false
     },
     "condition": {
@@ -196,7 +196,7 @@
         ]
       },
       "key": {
-        "key": "key.use",
+        "key": "key.origins.secondary_active",
         "continuous": false
       },
       "condition": {

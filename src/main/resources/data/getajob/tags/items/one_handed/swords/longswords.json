@@ -1,0 +1,105 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "simplyswords:mythicmetals_compat/carmot/carmot_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:diamond_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/bronze/bronze_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:iron_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/copper/copper_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:netherite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:toxic_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:gold_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/runite/runite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/mythril/mythril_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/palladium/palladium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/steel/steel_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/kyber/kyber_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/banglum/banglum_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/osmium/osmium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:mythicmetals_compat/celestium/celestium_longsword",
+      "required": false
+    },
+    {
+      "id": "simplyswords:runic_longsword",
+      "required": false
+    }
+  ]
+}

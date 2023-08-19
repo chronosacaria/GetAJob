@@ -4,26 +4,23 @@
     "type": "apoli:passive",
     "priority": 0,
     "bientity_condition": {
-      "type": "apoli:target_condition",
-      "condition": {
-        "type": "apoli:or",
-        "conditions": [
-          {
-            "type": "apoli:target_condition",
-            "condition": {
-              "type": "origins:origin",
-              "origin": "getajob:necromancer/thanatologist"
-            }
-          },
-          {
-            "type": "apoli:target_condition",
-            "condition": {
-              "type": "origins:origin",
-              "origin": "getajob:necromancer/bone_builder"
-            }
+      "type": "apoli:or",
+      "conditions": [
+        {
+          "type": "apoli:target_condition",
+          "condition": {
+            "type": "origins:origin",
+            "origin": "getajob:necromancer/thanatologist"
           }
-        ]
-      }
+        },
+        {
+          "type": "apoli:target_condition",
+          "condition": {
+            "type": "origins:origin",
+            "origin": "getajob:necromancer/bone_builder"
+          }
+        }
+      ]
     }
   }
 }

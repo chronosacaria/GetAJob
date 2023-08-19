@@ -9,6 +9,7 @@
     "getajob:necromancer/bone_builder",
     "getajob:necromancer/thanatologist",
     "getajob:forager",
-    "getajob:summoner"
+    "getajob:summoner",
+    "getajob:hampter/hampter"
   ]
 }

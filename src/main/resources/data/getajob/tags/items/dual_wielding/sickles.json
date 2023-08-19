@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcdw:sickle_last_laugh_gold",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_last_laugh_silver",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_nightmares_bite",
+      "required": false
+    },
+    {
+      "id": "mcdw:sickle_sickle",
+      "required": false
+    },
+    {
+      "id": "immersive_weathering:ice_sickle",
+      "required": false
+    }
+  ]
+}
